@@ -12,7 +12,15 @@ A Streamlit-powered application that takes a job description and your base profi
 - **Fit Assessment** - Quality analysis showing keyword alignment with job requirements
 - **Text Paste Option** - Paste content directly if file parsing is unavailable
 
-## 📋 Requirements
+## � Screenshots
+
+Check out the `screenshots/` folder to see the app in action! Screenshots showcase:
+- The main interface and user experience
+- Resume generation workflow
+- Output examples and formatting
+- File upload and export features
+
+## �📋 Requirements
 
 - Python 3.8 or higher
 - pip (Python package manager)
