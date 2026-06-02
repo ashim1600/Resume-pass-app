@@ -14,11 +14,17 @@ A Streamlit-powered application that takes a job description and your base profi
 
 ## � Screenshots
 
-Check out the `screenshots/` folder to see the app in action! Screenshots showcase:
-- The main interface and user experience
-- Resume generation workflow
-- Output examples and formatting
-- File upload and export features
+### Main Interface
+![Main Interface](screenshots/01_main_interface.png)
+*The main interface showing generation controls and hero section*
+
+### Input Form
+![Input Form](screenshots/02_input_form.png)
+*Job description and base profile input areas*
+
+### Form Fields
+![Form Fields](screenshots/03_form_fields.png)
+*Additional form fields for user information, skills, and education*
 
 ## �📋 Requirements
 
